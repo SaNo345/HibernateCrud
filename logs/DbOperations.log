@@ -1,0 +1,261 @@
+2018-03-12 17:26:16 INFO  User:102 - 
+Successfully Find User by Id '13'  In The Database!
+
+2018-03-12 17:26:16 INFO  User:76 - 
+Successfully Delete User by Id '13'  In The Database!
+
+2018-03-12 18:02:24 INFO  CompanyList:48 - 
+Successfully Add Company 'Դավիդ'  In The Database!
+
+2018-03-12 18:02:43 INFO  CompanyList:101 - 
+Successfully Find Company by Id '28'  In The Database!
+
+2018-03-12 18:02:43 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '28'  In The Database!
+
+2018-03-26 20:14:50 INFO  User:48 - 
+Successfully Add User 'aaa'  In The Database!
+
+2018-03-26 20:36:49 INFO  CompanyList:48 - 
+Successfully Add Company 'shshh'  In The Database!
+
+2018-03-26 20:39:00 INFO  CompanyList:101 - 
+Successfully Find Company by Id '27'  In The Database!
+
+2018-03-26 20:39:01 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '27'  In The Database!
+
+2018-03-28 21:08:38 INFO  CompanyList:48 - 
+Successfully Add Company 'Sano'  In The Database!
+
+2018-03-28 21:09:04 INFO  CompanyList:48 - 
+Successfully Add Company 'dddd'  In The Database!
+
+2018-03-28 21:27:29 INFO  CompanyList:101 - 
+Successfully Find Company by Id '30'  In The Database!
+
+2018-03-28 21:27:29 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '30'  In The Database!
+
+2018-03-28 22:23:43 INFO  CompanyList:101 - 
+Successfully Find Company by Id '29'  In The Database!
+
+2018-03-28 22:23:43 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '29'  In The Database!
+
+2018-03-28 22:32:08 INFO  CompanyList:48 - 
+Successfully Add Company 'աաա'  In The Database!
+
+2018-03-28 22:32:23 INFO  CompanyList:48 - 
+Successfully Add Company 'կկկ'  In The Database!
+
+2018-03-28 22:33:22 INFO  CompanyList:101 - 
+Successfully Find Company by Id '31'  In The Database!
+
+2018-03-28 22:33:22 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '31'  In The Database!
+
+2018-03-28 22:35:31 INFO  CompanyList:48 - 
+Successfully Add Company 'հհդհ'  In The Database!
+
+2018-03-28 22:37:27 INFO  CompanyList:101 - 
+Successfully Find Company by Id '32'  In The Database!
+
+2018-03-28 22:37:27 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '32'  In The Database!
+
+2018-03-28 22:37:27 INFO  CompanyList:101 - 
+Successfully Find Company by Id '33'  In The Database!
+
+2018-03-28 22:37:27 INFO  CompanyList:76 - 
+Successfully Delete Company by Id '33'  In The Database!
+
+2018-03-28 23:04:14 INFO  User:48 - 
+Successfully Add User 'aaa'  In The Database!
+
+2018-03-28 23:04:20 INFO  User:102 - 
+Successfully Find User by Id '12'  In The Database!
+
+2018-03-28 23:04:20 INFO  User:76 - 
+Successfully Delete User by Id '12'  In The Database!
+
+2018-03-28 23:04:21 INFO  User:102 - 
+Successfully Find User by Id '13'  In The Database!
+
+2018-03-28 23:04:21 INFO  User:76 - 
+Successfully Delete User by Id '13'  In The Database!
+
+2018-03-28 23:23:42 INFO  CompanyList:126 - 
+Successfully Update Company by Id '28'  In The Database!
+
+2018-03-28 23:24:12 INFO  CompanyList:48 - 
+Successfully Add Company 'dff'  In The Database!
+
+2018-03-28 23:32:10 INFO  CompanyList:127 - 
+Successfully Update Company by Id '28'  In The Database!
+
+2018-03-28 23:54:59 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-03-29 00:06:51 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-03-29 00:07:14 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-03-29 00:14:11 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-03-29 00:14:23 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-03-29 00:27:01 INFO  User:47 - 
+Successfully Add User 'hhhh'  In The Database!
+
+2018-03-29 00:34:58 INFO  User:129 - 
+Successfully Update User by Id '15'  In The Database!
+
+2018-03-29 00:35:24 INFO  CompanyList:127 - 
+Successfully Update Company by Id '34'  In The Database!
+
+2018-04-08 16:19:08 ERROR SqlExceptionHelper:146 - Unknown column 'order0_.company_id_companyid' in 'field list'
+2018-04-08 16:19:08 INFO  Order:78 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:14:28 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.User' doesn't exist
+2018-04-08 17:14:28 INFO  User:25 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:16:48 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.User' doesn't exist
+2018-04-08 17:16:48 INFO  User:25 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:17:00 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.Company' doesn't exist
+2018-04-08 17:17:00 INFO  CompanyList:27 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:24:32 INFO  User:130 - 
+Successfully Update User by Id '3'  In The Database!
+
+2018-04-08 17:27:47 ERROR SqlExceptionHelper:146 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order order0_ where order0_.year=2018' at line 1
+2018-04-08 17:27:47 INFO  Order:77 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:34:02 ERROR ErrorCounter:78 - line 1:17: unexpected token: 'order'
+2018-04-08 17:34:02 ERROR ErrorCounter:73 - line 1:17: unexpected token: 'order'
+line 1:17: unexpected token: 'order'
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.fromRange(HqlBaseParser.java:1544)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.fromClause(HqlBaseParser.java:1368)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectFrom(HqlBaseParser.java:1086)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:731)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:323)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:186)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:295)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:203)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:158)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:126)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:88)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:167)
+	at org.hibernate.internal.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:301)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:236)
+	at org.hibernate.internal.SessionImpl.createQuery(SessionImpl.java:1800)
+	at pac.crud.dao.OrderList.getOrdersByYear(OrderList.java:72)
+	at pac.crud.Main.main(Main.java:13)
+2018-04-08 17:34:02 INFO  Order:78 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:35:14 ERROR SqlExceptionHelper:146 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order order0_ where order0_.year=2018' at line 1
+2018-04-08 17:35:14 INFO  Order:78 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:39:40 INFO  Order:78 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 17:40:42 ERROR SqlExceptionHelper:146 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order order0_' at line 1
+2018-04-08 17:40:42 INFO  Order:29 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 18:30:37 ERROR SqlExceptionHelper:146 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order order0_' at line 1
+2018-04-08 18:30:37 INFO  OrderList:28 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-08 18:31:47 INFO  OrderList:28 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-11 00:52:17 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.user_payorder' doesn't exist
+2018-04-11 00:52:17 INFO  User:25 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-11 00:53:32 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.user_payorder' doesn't exist
+2018-04-11 00:53:32 INFO  User:25 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-11 00:57:39 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.company_payorder' doesn't exist
+2018-04-11 00:57:39 INFO  CompanyList:27 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-11 01:00:53 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.company_payorder' doesn't exist
+2018-04-11 01:00:53 INFO  CompanyList:27 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-11 01:04:59 ERROR SqlExceptionHelper:146 - Table 'hibernatecrudDb.company_payorder' doesn't exist
+2018-04-11 01:04:59 INFO  CompanyList:27 - 
+.......Transaction Is Being Rolled Back.......
+
+2018-04-13 00:40:18 INFO  User:103 - 
+Successfully Find User by Id '2'  In The Database!
+
+2018-04-13 00:42:27 INFO  User:103 - 
+Successfully Find User by Id '3'  In The Database!
+
+2018-04-13 00:47:30 INFO  User:103 - 
+Successfully Find User by Id '2'  In The Database!
+
+2018-04-13 00:56:44 INFO  User:103 - 
+Successfully Find User by Id '3'  In The Database!
+
+2018-04-13 01:12:50 INFO  User:103 - 
+Successfully Find User by Id '3'  In The Database!
+
+2018-04-13 01:14:05 INFO  User:103 - 
+Successfully Find User by Id '2'  In The Database!
+
+2018-04-13 01:14:17 INFO  OrderList:52 - 
+Successfully Add Order by ID '6'  In The Database!
+
+2018-04-13 01:14:52 INFO  User:103 - 
+Successfully Find User by Id '2'  In The Database!
+
+2018-04-13 01:16:20 INFO  User:103 - 
+Successfully Find User by Id '3'  In The Database!
+
+2018-04-13 01:17:30 INFO  User:103 - 
+Successfully Find User by Id '2'  In The Database!
+
+2018-04-13 01:26:35 INFO  CompanyList:103 - 
+Successfully Find Company by Id '4'  In The Database!
+
+2018-04-13 01:26:44 INFO  OrderList:52 - 
+Successfully Add Order by ID '7'  In The Database!
+
+2018-04-13 01:27:06 INFO  CompanyList:103 - 
+Successfully Find Company by Id '4'  In The Database!
+
+2018-04-17 16:03:50 INFO  User:48 - 
+Successfully Add User 'name1'  In The Database!
+
+2018-04-24 21:02:31 INFO  User:131 - 
+Successfully Update User by Id '3'  In The Database!
+
+2018-04-24 21:03:33 INFO  User:131 - 
+Successfully Update User by Id '4'  In The Database!
+
+2018-04-24 22:05:58 INFO  User:131 - 
+Successfully Update User by Id '2'  In The Database!
+
+2018-04-24 22:11:51 INFO  User:131 - 
+Successfully Update User by Id '4'  In The Database!
+
+2018-04-24 22:19:37 INFO  User:131 - 
+Successfully Update User by Id '4'  In The Database!
+
